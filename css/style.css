@@ -13736,6 +13736,12 @@ section#projects-section iframe {
     min-height: 600px;
 }
 
+.owl-carousel.home-slider .slider-item .slider-text .text {
+  padding-top: 120px;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
 }
 
 /* Small devices (landscape phones, 576px and up) */
