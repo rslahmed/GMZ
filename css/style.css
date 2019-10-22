@@ -13684,6 +13684,10 @@ section#projects-section iframe {
   height: 250px;
 }
 
+nav#ftco-navbar {
+  background: #fff !important;
+}
+
 
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) and (max-width: 1199.98px) {
